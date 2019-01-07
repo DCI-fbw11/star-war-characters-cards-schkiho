@@ -1,0 +1,11 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "starwars-cards",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Daniel Schmidt",
+  "license": "MIT"
+}

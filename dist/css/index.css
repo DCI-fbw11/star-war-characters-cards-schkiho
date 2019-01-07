@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  background: black;
+  color: white; }
+
+.request {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 2rem; }
+  .request button,
+  .request input {
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center; }
+
+.cards {
+  display: inline-block;
+  border: 1px solid white;
+  border-radius: 10px;
+  width: 300px;
+  height: 250px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 10px 10px rgba(202, 183, 183, 0.897); }
+  .cards h3 {
+    color: yellow; }
+
+button,
+input {
+  padding: 5px;
+  border-radius: 10px;
+  text-align: center; }
